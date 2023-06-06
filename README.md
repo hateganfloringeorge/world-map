@@ -217,6 +217,7 @@ Project Link: [https://github.com/hateganfloringeorge/world-map](https://github.
 ## Acknowledgments
 
 - [Readme template](https://github.com/othneildrew/Best-README-Template) - othneildrew
+- Title icon by <a href="https://freeicons.io/profile/75801">Hilmy Abiyyu Asad</a> on <a href="https://freeicons.io">freeicons.io</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
