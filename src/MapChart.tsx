@@ -5,14 +5,11 @@ import {
   ZoomableGroup
 } from 'react-simple-maps'
 
-const geoUrl =
-  'https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json'
-
 export default function MapChart() {
   return (
     <ComposableMap>
       <ZoomableGroup>
-        <Geographies geography={geoUrl}>
+        <Geographies geography="../Maps/WorldMap.json">
           {({ geographies }) =>
             geographies.map((geo) => (
               <Geography key={geo.rsmKey} geography={geo} />
