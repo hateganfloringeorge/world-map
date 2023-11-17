@@ -161,7 +161,7 @@ _For the full list of commands, they can be found in [Documentation](https://git
 ## Roadmap
 
 - [x] Finish setup
-- [ ] Research map modules
+- [x] Research map modules
 - [ ] Implement map navigation
 - [ ] Add potential features
   - [ ] Add tests for actual and future data
